@@ -30,7 +30,7 @@ Clone the repo.
 
 In the project directory, run `python -m venv claude-env`
 
-Then run `pip install anthropic`
+Then run `pip install anthropic` and `pip install pyqt5`
 
 Then get an API key for anthropic and set it to an environment variable.
 
